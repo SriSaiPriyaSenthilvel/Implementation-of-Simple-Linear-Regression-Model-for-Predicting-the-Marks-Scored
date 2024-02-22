@@ -79,30 +79,39 @@ print("RMSE= ",rmse)
 
 ## Output:
 1.df.head()
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/1dc2ddc5-0ded-41c0-9b18-1cc962bf5a98)
 
 2.df.tail()
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/9eada9f6-bd10-46f0-af95-a04fe41fd553)
 
 3.Array Value of X
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/b2a12855-b023-4c72-87b6-daa8492d5a51)
 
 4.Array Value of Y
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/1f47ce40-7c1a-4c87-a143-b77d8e79e7e3)
 
 5.Values of Y prediction
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/500731ac-efa7-4104-9a26-124cf596ed5a)
 
 6.Array values of Y test
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/8f60ae89-df39-422d-a788-2e8eddd2a6ed)
 
 7.Training Set Graph
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/b2bcb3f8-e9f6-4895-aa2b-96697b99c70a)
 
 8.Test Set Graph
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/65344987-511d-417a-b8c6-dd4923729b66)
 
 9.Values of MSE, MAE and RMSE
+
 ![image](https://github.com/SriSaiPriyaSenthilvel/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119475702/8b2b0a33-5bd5-4b4c-b0d7-e80b536334c3)
 
 ## Result:
