@@ -22,8 +22,8 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: SRI SAI PRIYA.S
 RegisterNumber:  212222240103
 */
-```
-```
+
+
 import numpy as np
 import pandas as pd
 from sklearn.metrics import mean_absolute_error,mean_squared_error
