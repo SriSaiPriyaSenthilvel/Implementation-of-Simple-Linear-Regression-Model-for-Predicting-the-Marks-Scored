@@ -73,7 +73,6 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
 ```
-
 ## Output:
 1.df.head()
 
