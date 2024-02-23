@@ -47,8 +47,6 @@ reg.fit(X_train,Y_train)
 Y_pred =reg.predict(X_test)
 print(Y_pred)
 print(Y_test)
-```
-```
 #Graph plot for training data
 plt.scatter(X_train,Y_train,color='blue')
 plt.plot(X_train,reg.predict(X_train),color='purple')
